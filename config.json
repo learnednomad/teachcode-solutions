@@ -1,14 +1,16 @@
 {
   "learningTrack": "JavaScript",
   "userName": "Nabil Sani",
-  "taskCount": 2,
+  "taskCount": 3,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
     "f1g8toxot6aw759e6j7zyy79i4ojbz2yv5nu",
-    "opzx5nsrbv3xo2gksiyn3mm7nrq195effqoy"
+    "opzx5nsrbv3xo2gksiyn3mm7nrq195effqoy",
+    "esqr4q3bkge5osisz4w6uef5z4tiflxuef3n"
   ],
   "userSubmittedFiles": [
     "task1.js",
-    "task2.js"
+    "task2.js",
+    "task3.js"
   ]
 }
